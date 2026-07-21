@@ -94,6 +94,11 @@ Contributions are welcome.
 
 Educational use.
 
+## new files are now part of the repository
+
+README.md
+batmanPI.py
+requirements.txt
 
 ## Author
 
